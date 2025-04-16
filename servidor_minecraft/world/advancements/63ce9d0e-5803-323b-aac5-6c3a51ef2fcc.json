@@ -8,12 +8,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-16 02:10:54 +0000",
+      "minecraft:beach": "2025-04-16 02:22:19 +0000",
+      "minecraft:forest": "2025-04-16 02:21:57 +0000",
       "minecraft:taiga": "2025-04-16 01:05:50 +0000",
-      "minecraft:deep_dark": "2025-04-16 01:40:20 +0000",
+      "minecraft:deep_ocean": "2025-04-16 02:26:59 +0000",
       "minecraft:river": "2025-04-16 01:38:02 +0000",
-      "minecraft:grove": "2025-04-16 01:58:52 +0000",
       "minecraft:stony_shore": "2025-04-16 01:04:40 +0000",
       "minecraft:lush_caves": "2025-04-16 01:28:12 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-16 02:26:28 +0000",
+      "minecraft:deep_dark": "2025-04-16 01:40:20 +0000",
+      "minecraft:ocean": "2025-04-16 02:27:51 +0000",
+      "minecraft:grove": "2025-04-16 01:58:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-16 01:05:34 +0000",
       "minecraft:jagged_peaks": "2025-04-16 01:58:36 +0000"
     },
@@ -331,7 +336,8 @@
       "minecraft:skeleton": "2025-04-16 01:28:35 +0000",
       "minecraft:enderman": "2025-04-16 01:59:47 +0000",
       "minecraft:spider": "2025-04-16 02:12:13 +0000",
-      "minecraft:zombie": "2025-04-16 02:13:58 +0000"
+      "minecraft:zombie": "2025-04-16 02:13:58 +0000",
+      "minecraft:drowned": "2025-04-16 02:24:59 +0000"
     },
     "done": false
   },
@@ -1142,6 +1148,138 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-16 01:50:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-16 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-16 02:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-16 02:19:28 +0000"
     },
     "done": true
   },

@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-16 01:59:14 +0000"
@@ -215,6 +221,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-16 02:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-16 02:15:21 +0000"
@@ -224,6 +242,12 @@
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-04-16 02:06:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
     },
     "done": true
   },
@@ -260,6 +284,24 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-16 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2025-04-16 02:21:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
     },
     "done": true
   },
@@ -431,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-16 01:59:17 +0000"
@@ -581,9 +629,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-16 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-16 02:20:02 +0000"
     },
     "done": true
   },
@@ -596,6 +662,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-16 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
     },
     "done": true
   },
@@ -701,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-16 02:00:43 +0000"
@@ -719,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-16 01:55:39 +0000"
@@ -728,6 +812,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-16 01:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
     },
     "done": true
   },
@@ -793,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-04-16 02:06:33 +0000"
@@ -847,6 +943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 02:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-16 01:27:19 +0000"
@@ -862,6 +964,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
     },
     "done": true
   },
@@ -928,12 +1036,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-04-16 02:10:58 +0000",
+      "minecraft:beach": "2025-04-16 02:22:41 +0000",
+      "minecraft:forest": "2025-04-16 02:22:25 +0000",
       "minecraft:taiga": "2025-04-16 01:22:09 +0000",
-      "minecraft:deep_dark": "2025-04-16 01:58:48 +0000",
+      "minecraft:deep_ocean": "2025-04-16 02:26:59 +0000",
       "minecraft:river": "2025-04-16 01:32:52 +0000",
-      "minecraft:grove": "2025-04-16 01:38:51 +0000",
       "minecraft:stony_shore": "2025-04-16 01:19:50 +0000",
       "minecraft:lush_caves": "2025-04-16 01:58:23 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-16 02:26:28 +0000",
+      "minecraft:deep_dark": "2025-04-16 01:58:48 +0000",
+      "minecraft:ocean": "2025-04-16 02:27:52 +0000",
+      "minecraft:grove": "2025-04-16 01:38:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-16 01:20:00 +0000",
       "minecraft:jagged_peaks": "2025-04-16 01:58:40 +0000"
     },
@@ -1033,6 +1146,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-16 01:49:15 +0000",
       "cooked_mutton": "2025-04-16 01:55:47 +0000",
+      "sweet_berries": "2025-04-16 02:25:13 +0000",
       "cooked_beef": "2025-04-16 01:30:31 +0000"
     },
     "done": false
@@ -1067,6 +1181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-04-16 01:59:45 +0000"
@@ -1082,6 +1202,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-04-16 01:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-16 02:20:02 +0000"
     },
     "done": true
   },
@@ -1127,9 +1253,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-16 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-16 02:25:59 +0000"
     },
     "done": true
   },
@@ -1199,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 02:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-16 01:26:33 +0000"
@@ -1208,6 +1352,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-16 01:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 02:25:48 +0000"
     },
     "done": true
   },
