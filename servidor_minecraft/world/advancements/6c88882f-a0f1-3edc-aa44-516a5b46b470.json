@@ -494,7 +494,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-16 01:38:34 +0000",
-      "minecraft:spider": "2025-04-16 01:33:28 +0000"
+      "minecraft:spider": "2025-04-16 01:33:28 +0000",
+      "minecraft:zombie": "2025-04-16 01:51:14 +0000"
     },
     "done": false
   },
@@ -648,6 +649,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-16 01:49:15 +0000",
       "cooked_beef": "2025-04-16 01:30:31 +0000"
     },
     "done": false
@@ -715,6 +717,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-16 01:27:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-16 01:49:27 +0000"
     },
     "done": true
   },

@@ -648,3 +648,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Apr2025 01:43:49.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 01:43:49.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Apr2025 01:46:33.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [Cover Me with Diamonds]
+[16Apr2025 01:48:49.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 01:48:49.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 01:53:49.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 01:53:49.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 01:55:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Sweet Dreams]
+[16Apr2025 01:55:43.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[16Apr2025 01:55:43.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[16Apr2025 01:55:47.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[16Apr2025 01:55:47.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[16Apr2025 01:55:47.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[16Apr2025 01:55:47.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[16Apr2025 01:55:48.000] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5b713be0 into net.minecraft.network.Connection@3615c129
+[16Apr2025 01:55:48.779] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/100.107.13.89:49995] logged in with entity id 13722 at (4.242711566964757, 126.0, -457.0422877542357)
+[16Apr2025 01:55:48.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[16Apr2025 01:57:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Suit Up]
