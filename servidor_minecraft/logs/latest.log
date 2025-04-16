@@ -98,3 +98,4 @@
 [16Apr2025 01:57:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Suit Up]
 [16Apr2025 01:59:17.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Diamonds!]
 [16Apr2025 02:00:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 has made the advancement [Sneak 100]
+[16Apr2025 02:11:30.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=-40, z=-374} BlockPos{x=59, y=-29, z=-306}
