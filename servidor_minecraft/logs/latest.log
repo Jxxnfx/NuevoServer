@@ -121,3 +121,24 @@
 [16Apr2025 03:26:51.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx was killed
 [16Apr2025 03:26:51.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Killed 229 entities]
 [16Apr2025 03:27:14.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Teleported Jxxnfx to 1776.500000, 74.000000, 798.500000]
+[16Apr2025 03:41:42.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[16Apr2025 03:41:42.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[16Apr2025 03:41:44.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/100.107.13.89:59813] logged in with entity id 51724 at (1892.0148447747172, 78.76158826941929, 834.8139265457805)
+[16Apr2025 03:41:44.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[16Apr2025 03:41:47.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[16Apr2025 03:41:47.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[16Apr2025 03:41:52.625] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jxxnfx[/100.107.13.89:59833] logged in with entity id 51952 at (1892.0148447747172, 63.0, 834.8139265457805)
+[16Apr2025 03:41:52.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx joined the game
+[16Apr2025 03:41:54.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
+[16Apr2025 03:41:59.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[16Apr2025 03:41:59.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[16Apr2025 03:42:21.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Apr2025 03:42:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Apr2025 03:42:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Apr2025 03:42:21.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Apr2025 03:42:21.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Apr2025 03:42:21.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Apr2025 03:42:21.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Apr2025 03:42:21.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Apr2025 03:42:21.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Apr2025 03:42:21.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
