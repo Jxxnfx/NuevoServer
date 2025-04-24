@@ -52,3 +52,7 @@
 [24Apr2025 02:49:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
 [24Apr2025 04:08:43.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Survival Mode]
 [24Apr2025 04:08:59.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set own game mode to Creative Mode]
+[24Apr2025 05:29:34.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the time to 1000]
+[24Apr2025 05:29:39.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set the weather to clear]
+[24Apr2025 05:33:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [We Need to Go Deeper]
+[24Apr2025 05:33:29.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
