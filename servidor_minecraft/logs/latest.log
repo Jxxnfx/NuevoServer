@@ -57,3 +57,15 @@
 [24Apr2025 05:33:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx has made the advancement [We Need to Go Deeper]
 [24Apr2025 05:33:29.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
 [24Apr2025 05:34:33.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[24Apr2025 05:48:38.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[24Apr2025 05:48:38.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[24Apr2025 05:48:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Apr2025 05:48:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Apr2025 05:48:54.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Apr2025 05:48:54.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Apr2025 05:48:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Apr2025 05:48:54.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Apr2025 05:48:54.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Apr2025 05:48:54.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Apr2025 05:48:54.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Apr2025 05:48:54.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
