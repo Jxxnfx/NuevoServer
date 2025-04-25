@@ -585,3 +585,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Apr2025 01:05:00.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
 [25Apr2025 01:05:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set zirrocis27's game mode to Survival Mode]
 [25Apr2025 01:06:25.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 was slain by Zombie
+[25Apr2025 01:08:41.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 01:08:41.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Apr2025 01:09:24.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
+[25Apr2025 01:09:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[25Apr2025 01:09:44.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 01:09:44.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 01:09:44.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Vanilla acceptance test: ACCEPTED
+[25Apr2025 01:09:44.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[25Apr2025 01:09:44.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@53faa82b into net.minecraft.network.Connection@9cef3f5
+[25Apr2025 01:09:46.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:50838] logged in with entity id 4374 at (2105.223393531159, 64.0, 995.4336783631101)
+[25Apr2025 01:09:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
+[25Apr2025 01:13:41.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Apr2025 01:13:41.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

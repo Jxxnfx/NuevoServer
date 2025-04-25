@@ -48,3 +48,7 @@
 [25Apr2025 01:05:00.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
 [25Apr2025 01:05:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Jxxnfx: Set zirrocis27's game mode to Survival Mode]
 [25Apr2025 01:06:25.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 was slain by Zombie
+[25Apr2025 01:09:24.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zirrocis27 lost connection: Disconnected
+[25Apr2025 01:09:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 left the game
+[25Apr2025 01:09:46.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zirrocis27[/100.124.154.37:50838] logged in with entity id 4374 at (2105.223393531159, 64.0, 995.4336783631101)
+[25Apr2025 01:09:46.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zirrocis27 joined the game
