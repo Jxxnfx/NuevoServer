@@ -340,6 +340,7 @@
       "minecraft:enderman": "2025-04-16 01:59:47 +0000",
       "minecraft:spider": "2025-04-16 02:12:13 +0000",
       "minecraft:zombie": "2025-04-16 02:13:58 +0000",
+      "minecraft:creeper": "2025-04-25 02:17:33 +0000",
       "minecraft:drowned": "2025-04-16 02:24:59 +0000"
     },
     "done": false
@@ -1691,6 +1692,48 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-25 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-25 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-25 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-25 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-25 02:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-25 02:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-25 02:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-25 02:21:49 +0000"
     },
     "done": true
   },
