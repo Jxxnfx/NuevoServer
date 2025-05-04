@@ -655,3 +655,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04May2025 01:13:14.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 01:13:14.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 01:14:16.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=204, y=14, z=-115} BlockPos{x=204, y=13, z=-114}
+[04May2025 01:18:14.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:18:14.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:20:59.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=15, z=-103} BlockPos{x=213, y=14, z=-103}
+[04May2025 01:20:59.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=15, z=-103} BlockPos{x=213, y=14, z=-103}
+[04May2025 01:20:59.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=15, z=-103} BlockPos{x=213, y=14, z=-103}
+[04May2025 01:20:59.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=15, z=-103} BlockPos{x=213, y=14, z=-103}
+[04May2025 01:23:14.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:23:14.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:23:21.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jxxnfx lost connection: Disconnected
+[04May2025 01:23:21.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jxxnfx left the game
+[04May2025 01:26:27.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 01:26:27.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 01:26:27.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04May2025 01:26:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04May2025 01:26:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04May2025 01:26:27.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04May2025 01:26:27.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:26:27.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:26:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04May2025 01:26:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 01:26:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 01:26:27.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04May2025 01:26:27.693] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[04May2025 01:26:28.197] [pool-4-thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file forge-server.toml changed, sending notifies
+[04May2025 01:26:28.197] [pool-4-thread-1/DEBUG] [net.minecraftforge.common.ForgeConfig/FORGEMOD]: Forge config just got changed on the file system!
